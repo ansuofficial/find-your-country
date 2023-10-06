@@ -116,6 +116,7 @@ input.addEventListener('keydown', function (event) {
     if (countryName) {
       // Clear previous results
       getCountryAndNeighbour(countryName);
+      countriesContainer.innerHTML = ''
       input.value = '';
     }
   }
