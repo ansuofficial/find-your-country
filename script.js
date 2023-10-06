@@ -1,9 +1,10 @@
-
+// Find your country
 'use strict';
 
 const input = document.querySelector('#input');
 const btn = document.querySelector('.btn-country');
 const countriesContainer = document.querySelector('.countries');
+input.focus()
 
 input.addEventListener('keydown', function (event) {
   if (event.key === 'Enter') {
