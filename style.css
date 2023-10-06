@@ -71,7 +71,6 @@ body {
 
 .neighbour {
   transform: scale(0.8) translateY(1rem);
-  margin-left: 45;
 }
 
 .country__img {
@@ -137,5 +136,8 @@ body {
 }
 
 @media screen and (max-width: 718px) {
-  
+  .neighbour {
+  transform: scale(0.8) translateY(1rem);
+  margin-left: 25%;
+}
 }
