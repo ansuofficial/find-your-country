@@ -8,7 +8,6 @@
 // //   const request = fetch(`https://restcountries.com/v3.1/name/${country}`);
 // //   console.log(request)
 // // }
-
 // // getc("gambia")
 
 // input.addEventListener("keydown", function (event) {
