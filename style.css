@@ -71,7 +71,7 @@ body {
 
 .neighbour {
   transform: scale(0.8) translateY(1rem);
-  margin-left: 0;
+  margin-left: 45;
 }
 
 .country__img {
