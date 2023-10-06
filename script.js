@@ -1,4 +1,5 @@
 // Find your country
+
 'use strict';
 
 const input = document.querySelector('#input');
