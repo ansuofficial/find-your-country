@@ -11,6 +11,7 @@ html {
 
 input::placeholder {
   text-align: center;
+  color: #d7d7d8;
 }
 
 body {

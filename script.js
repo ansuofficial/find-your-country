@@ -56,7 +56,6 @@ const getCountryAndNeighbour = function (country) {
     const [data] = JSON.parse(this.responseText);
 
     if (!data) {
-      // Handle the case when the country is not found
       countriesContainer.innerHTML = '<p>Country not found</p>';
       return;
     }
