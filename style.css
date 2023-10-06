@@ -135,3 +135,7 @@ body {
   border: 3rem solid white;
   box-shadow: 0 2rem 5rem 1rem rgba(0, 0, 0, 0.1);
 }
+
+@media screen and (max-width: 718px) {
+  
+}
