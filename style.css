@@ -8,6 +8,19 @@ html {
   font-size: 62.5%;
   box-sizing: border-box;
 }
+.input-container {
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+
+.input-container input {
+  border: none;
+  outline: none;
+  height: 4rem;
+  box-shadow: 2px 2px 5px rgba(84, 83, 85, 0.75);
+  border-radius: 1.5rem;
+}
 
 input::placeholder {
   text-align: center;
@@ -22,6 +35,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
 
 
 .countries {
