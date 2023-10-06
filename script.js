@@ -9,7 +9,6 @@
 // //   console.log(request)
 // // }
 // // getc("gambia")
-
 // input.addEventListener("keydown", function (event) {
 //   if (event.key === "Enter") {
 //     input.value = (`$country`)
